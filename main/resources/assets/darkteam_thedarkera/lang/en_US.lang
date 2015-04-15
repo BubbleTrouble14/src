@@ -1,0 +1,35 @@
+tile.darkteam_thedarkera_samstone.ore.name=Sam's Stone
+tile.darkteam_thedarkera_samstone.wall.name=Sam's Wall
+
+tile.darkteam_thedarkera_samplant.name=Sam's Plant
+tile.darkteam_thedarkera_samte.name=Sam's TileEntity
+
+item.darkteam_thedarkera_key.grey.name=Grey Key
+item.darkteam_thedarkera_key.red.name=Red Key
+
+item.darkteam_thedarkera_samdust.name=Sam's Dust
+item.darkteam_thedarkera_samingot.name=Sam's Ingot
+item.darkteam_thedarkera_berry.name=Berry
+item.darkteam_thedarkera_samseed.name=Sam's Seed
+item.darkteam_thedarkera_samthrow.name=Sam's Throwable
+
+
+item.darkteam_thedarkera_sampickaxe.name=Sam's Pickaxe
+item.darkteam_thedarkera_samaxe.name=Sam's Axe
+item.darkteam_thedarkera_samhoe.name=Sam's Hoe
+item.darkteam_thedarkera_samshovel.name=Sam's Shovel
+item.darkteam_thedarkera_samsword.name=Sam's Sword
+
+item.darkteam_thedarkera_sampaxel.name=Sam's Paxel
+item.darkteam_thedarkera_samspax.name=Sam's Spax
+
+item.darkteam_thedarkera_samhelmet.name=Sam's Helmet
+item.darkteam_thedarkera_samchestplate.name=Sam's Chestplate
+item.darkteam_thedarkera_samleggings.name=Sam's Leggings
+item.darkteam_thedarkera_samboots.name=Sam's Boots
+
+
+entity.darkteam_thedarkera.sammob.name=Sam's Mob
+
+
+
